@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Time-stop/static/css/main.b4f4839e.css",
+    "main.js": "/Time-stop/static/js/main.0f9c362d.js",
+    "static/js/453.36cb11b1.chunk.js": "/Time-stop/static/js/453.36cb11b1.chunk.js",
+    "index.html": "/Time-stop/index.html",
+    "main.b4f4839e.css.map": "/Time-stop/static/css/main.b4f4839e.css.map",
+    "main.0f9c362d.js.map": "/Time-stop/static/js/main.0f9c362d.js.map",
+    "453.36cb11b1.chunk.js.map": "/Time-stop/static/js/453.36cb11b1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4f4839e.css",
+    "static/js/main.0f9c362d.js"
+  ]
+}
